@@ -2,7 +2,7 @@ print(" enter number")
 
 grade = None
 
-#the progam below should take marks and give grade according to the mark given
+#the progam below take marks and give grade according to the mark given
 #0-39 F, 40-44 is E-, 45-49 is E, 50-54 is D, 55-59 is D+, 60-64 is C,
 #65-69 C+, 70-74 is B, 75-79 is B+, 80-90 is A and 90-100 is A+
 def grader():
